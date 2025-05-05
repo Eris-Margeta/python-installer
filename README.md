@@ -1,4 +1,5 @@
 # Quick bash utility for compiling the correct Python version
+for Debian/Ubuntu systems only (using apt)
 
 
 ## Options
